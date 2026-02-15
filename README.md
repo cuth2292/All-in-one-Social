@@ -1,2 +1,2 @@
 # All-in-one-Social
-An app that links and manages all your social media platforms in one place.
+An app that links and manages Facebook and Instagram social media platforms in one place.
